@@ -1,0 +1,10 @@
+.env
+__pycache__/
+.stations_cache.json
+.station_route_status.json
+
+bot.pid
+*.log
+.route_catalog_cache.json
+all_stations - Copy.json
+site_index_bundle.js
